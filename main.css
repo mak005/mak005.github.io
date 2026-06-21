@@ -229,3 +229,16 @@ h4 {
   object-fit: cover;
   aspect-ratio: 1;
 }
+
+.back-to-top {
+  background-color: #1d4ed8;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}

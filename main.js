@@ -57,30 +57,39 @@ document.addEventListener("DOMContentLoaded", () => {
       label: "Programmation web",
       titre: "Projets web",
       description:
-        "Projets de développement web (HTML, CSS, JavaScript, PHP, Python), backend (MySQL).",
+        "Quelques interfaces web.",
       photos: [
         "images/Interface-app-messages-1.png",
         "images/Interface-app-messages-2.png",
         "images/Interface-app-messages-3.png",
         "images/Interface-app-messages-4.png",
         "images/Interface-app-mobile-repertoire.png",
-        "images/Interface-cloud-storage.png",
+        "images/Interface-connexion-flutter.png",
+        "images/Interface-inscription-flutter.png",
+        "images/Interface-discussions-whatsapp-flutter1.png",
+        "images/Interface-discussions-whatsapp-flutter2.png",
       ],
     },
     {
       label: "Design",
       titre: "Affiches & infographie",
       description:
-        "Conception d'affiches et supports visuels via Canva et PixelLab.",
+        "Affiches et supports visuels via PixelLab.",
       photos: [
         "images/Mon-logo-pixellab.jpeg",
         "images/Mon-affiche-pixellab.jpeg",
         "images/Affiche-pixellab-2.jpeg",
         "images/Affiche-pixellab-3.jpeg",
         "images/Affiche-pixellab-4.jpeg",
+        "images/Affiche-pixellab-5.jpeg",
+        "images/Affiche-pixellab-6.jpeg",
+        "images/Affiche-pixellab-7.jpeg",
         "images/Affiche-pixellab-8.jpeg",
+        "images/Affiche-pixellab-9.jpeg",
+        "images/Affiche-pixellab-10.jpeg",
         "images/Flyer-pixellab-1.jpeg",
         "images/Carte-visite-pixellab-1.jpeg",
+
       ],
     },
     // {

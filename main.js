@@ -139,7 +139,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // Contacts
   const contacts = [
     "mawuvivikoudoh@gmail.com",
-    "linkedin.com/in/mawuvivi-koudoh",
     "https://mak005.github.io",
   ];
 
